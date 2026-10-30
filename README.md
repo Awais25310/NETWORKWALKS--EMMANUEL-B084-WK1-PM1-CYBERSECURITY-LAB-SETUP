@@ -1,2 +1,2 @@
 # NETWORKWALKS--EMMANUEL-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
-Isolated virtual lab built with VirtualBox and Kali Linux for cybersecurity testing and penetration testing practice.
+Week 1 Project (Module 1) completed according to the instructor's instructions. Network connection settings were modified using terminal commands because the Network Connection Editor option was unavailable.
